@@ -1,1 +1,1 @@
-# chatgpt-new
+# chat-gpt-bias
