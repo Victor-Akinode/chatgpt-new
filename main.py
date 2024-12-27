@@ -172,7 +172,7 @@ if __name__ == '__main__':
 
     create_dir(output_dir)
     
-    df = pd.read_csv('data/agric.csv')
+    df = pd.read_csv('data/waec_data/agric.csv')
     
     all_input_messages = []
     correct_answers = []
