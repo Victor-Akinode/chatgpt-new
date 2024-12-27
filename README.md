@@ -44,7 +44,7 @@ Example:
 - Commerce (WAEC): 54.37% (C6) vs. Marketing (MMLU): 84.62% (A1)
 
 2.	Prompt Engineering Effectiveness:
-- Structured prompts led to improved response accuracy.
+- Structured prompts were created to improve the response accuracy.
 - The best results were observed when prompts clearly specified the task and expectations.
 
 3.	Bias Insight:
@@ -85,7 +85,7 @@ Example:
 1. Clone the Repository
    ```
       git clone https://github.com/your_username/waec_vs_mmlu.git
-      cd waec_vs_mmlu
+      cd chatpgt-new
    ```
 
 3. Install Dependencies
