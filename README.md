@@ -84,7 +84,7 @@ Example:
 # How to Run the Project
 1. Clone the Repository
    ```
-      git clone https://github.com/your_username/waec_vs_mmlu.git
+      git clone https://github.com/Victor-Akinode/chatgpt-new.git
       cd chatpgt-new
    ```
 
