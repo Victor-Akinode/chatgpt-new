@@ -13,7 +13,7 @@ This project explores:
 ## Dataset Details
 
 ### WAEC Dataset
-	•	Source: WAEC question bank
+Source: WAEC question bank
 	•	Subjects Included:
 	•	Civic Education
 	•	Geography
@@ -22,7 +22,7 @@ This project explores:
 	•	Agricultural Science
 
 ## MMLU Dataset
-	•	Source: Massive Multitask Language Understanding dataset
+Source: Massive Multitask Language Understanding dataset
 	•	Subjects Compared:
 	•	Moral Disputes (vs. Civic Education)
 	•	High School Geography (vs. Geography)
