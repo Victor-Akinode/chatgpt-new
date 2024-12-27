@@ -73,7 +73,7 @@ Example:
 │       ├── high_school_government.parquet
 │       ├── marketing.parquet
 │       ├── moral_dispute.parquet
-│
+│── .env 
 ├── main.py           # Main script to orchestrate the analysis
 ├── mmlu.py           # Script handling MMLU-related operations
 ├── responses.json    # Stores ChatGPT-generated answers for analysis
