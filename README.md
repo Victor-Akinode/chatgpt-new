@@ -89,18 +89,22 @@ This project explores:
 ├── README.md         # Documentation and guide for the repository
 ```
 
-How to Run the Project
-	1.	Clone the Repository
+# How to Run the Project
+1. Clone the Repository
+   ```
       git clone https://github.com/your_username/waec_vs_mmlu.git
       cd waec_vs_mmlu
-      
-  2.	Install Dependencies
+   ```
+
+3. Install Dependencies
       Ensure you have Python 3.10 or later installed. Install required packages:
         pip install -r requirements.txt
     	
-  3.	Run the Analysis
+4. Run the Analysis
+   ```
         python main.py
+   ```
 
-  4. View Results
+5. View Results
      Check the results directory for performance reports.
      
