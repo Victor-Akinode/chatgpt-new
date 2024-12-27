@@ -14,20 +14,12 @@ This project explores:
 
 ### WAEC Dataset
 Source: WAEC question bank
-	•	Subjects Included:
-	•	Civic Education
-	•	Geography
-	•	Government
-	•	Commerce
-	•	Agricultural Science
+Subjects Included: Civic Education, Geography, Government, Commerce, Agricultural Science
+ 
 
 ## MMLU Dataset
 Source: Massive Multitask Language Understanding dataset
-	•	Subjects Compared:
-	•	Moral Disputes (vs. Civic Education)
-	•	High School Geography (vs. Geography)
-	•	High School Government and Politics (vs. Government)
-	•	Marketing (vs. Commerce)
+Subjects Compared: Moral Disputes (vs. Civic Education), High School Geography (vs. Geography), High School Government and Politics (vs. Government), Marketing (vs. Commerce)
 
  ## Methodology
 
