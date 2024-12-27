@@ -59,6 +59,7 @@ This project explores:
 	•	The higher accuracy on MMLU suggests potential optimization in ChatGPT for USA-context datasets, which might reflect inherent biases in training data or model optimization.
 
 # Code Structure
+```
 📂 chatgpt-new
 │
 ├── 📁 data
@@ -86,6 +87,7 @@ This project explores:
 ├── responses.json    # Stores ChatGPT-generated answers for analysis
 ├── requirements.txt  # Python dependencies for the project
 ├── README.md         # Documentation and guide for the repository
+```
 
 How to Run the Project
 	1.	Clone the Repository
